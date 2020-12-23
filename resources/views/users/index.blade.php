@@ -45,7 +45,7 @@
                                         <td>{{$row->name}}</td>
                                         <td>{{$row->email}}</td>
                                         <td>{{$row->phone}}</td>
-                                        <td>{{$row->email}}</td>
+                                        <td>{{$row->name}}</td>
                                     </tr>
 
                             @endforeach
